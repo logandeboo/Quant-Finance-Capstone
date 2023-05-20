@@ -12,3 +12,6 @@ French’s (1992) three factor model. We found our sentiment factor to be correl
 (small minus big) factor at -35% which was intuitive due to our universe of large-cap S&P-500
 companies. Lastly, our factor returns were correlated with the HML (high minus low) factor at
 -6% which reflects our factor may have the potential to capture additional risk elements.
+
+
+Link to research paper: https://www.researchgate.net/publication/370225792_Quantifying_Managerial_Sentiment_An_analysis_of_the_Relationship_Between_Managerial_Sentiment_and_US_Equity_Market_Volatility_and_Return
